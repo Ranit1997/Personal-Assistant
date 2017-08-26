@@ -1,0 +1,171 @@
+Go there
+Go right
+Go left
+Go ahead
+Go straight
+Pick that up
+sit down
+stand up
+Jump out
+Turn right
+Turn left
+Go back
+Track him
+detect that
+Smile now
+Make a crying face
+Rotate your head
+Call him
+Shut down
+Switch it on
+Open the file
+save the file
+Delete it
+Play the video
+get me a drink
+sing a song
+Pick up something
+Track her 
+Detect the ball
+Detect a car 
+What do u see
+find a ball 
+Look towards the ball
+Look towards the aeroplane
+Track the ball 
+Track the bottle
+Track the mobile
+Show me a dance 
+Record his voice 
+Remember me
+Come towards me
+Look around you 
+Sing a song
+Find Punyajoy
+Find Suprotik
+Find Vivek
+Tell a story 
+Track the bottle 
+Follow the ball
+Follow the cell phone
+Hold the ball 
+Pick the bottle 
+Pick the container 
+Pick the cube 
+See the things around you
+Make a angry looking face 
+Cry a lot
+Run around a bit 
+Play with this 
+Come here 
+Walk carefully
+Follow me
+Look towards the ball
+Look towards the aeroplane
+Look towards the chair
+Look towards the bottle
+Look towards the plate
+Look towards the cup
+Look towards the cell phone
+Look towards the book
+Look towards the guitar
+Look towards Ranit
+Look towards vivek
+Look towards Suprotik
+Look towards table
+Look towards the phone
+Look towards the football
+Look towards car
+Track the ball 
+Track the bottle
+Track the mobile
+Track the cat
+Track the dog
+Track the bottle
+Track the cup 
+Track the book
+Track the plate
+Track the id-card 
+Track person
+Track bicycle
+Track car
+Track motorcycle
+Track the airplane
+Track the bus
+Track the train
+Track truck
+Track boat
+Track the traffic
+Find parking
+Find a bench
+Find bird
+Find a cat
+Find dog
+Find a horse
+Find a sheep
+Find cow
+Find a elephant
+Find bear
+Follow zebra
+Follow giraffe
+Follow backpack
+Follow umbrella
+Follow handbag
+Follow tie
+Follow suitcase
+Follow the frisbee
+Follow skis
+Follow snowboard
+Follow sports
+Follow kite
+Follow baseball
+Follow skateboard
+see the surfboard
+Detect the tennis-racket
+Detect the bottle
+Detect wine
+Detect the cup
+Detect the fork
+Detect the knife
+Detect the spoon
+Detect the bowl
+Detect banana
+Detect the apple
+Detect sandwich
+Detect a orange
+Detect a broccoli
+Detect the carrot
+Detect the pizza
+Detect the donut
+Detect the cake
+Detect the chair
+Detect the couch
+Detect the potted
+Detect bed
+Detect the dining
+Detect the toilet
+Detect tv
+Open the laptop
+Detect the mouse
+Give the remote
+Type in keyboard
+Detect the microwave
+Detect the oven
+See toaster
+Detect the sink
+Detect the  refrigerator
+Detect the book
+Detect the  clock
+Detect the vase
+Detect the scissors
+Detect the teddy
+Detect the hair
+See toothbrush
+make a crying face
+make a suprised face
+make a ignorant face
+make a cute face
+make worrying face
+make excited face
+make laughing face
+make smiling face

@@ -1,0 +1,17 @@
+{"intents": [
+        {"tag": "Emotions",
+         "patterns": ["Smile","crying","angry","Cry","suprised","ignorant face","cute face", "worrying face","excited face","laughing face","smiling face","smile","happy","sad","cheerful","gloomy","make","face","anger","cute"],
+         "responses": ["E"],
+         "context_set": ""
+        },
+	    {"tag": "Tracking",
+         "patterns": ["Track","Follow","Look at","Find", "Look towards","Detect"],
+         "responses": ["T"]
+        },
+        {"tag": "Physical Actions",
+         "patterns": ["Sit down", "Stand up", "Go left","Go right","Go forward","Go Back","Walk","Run","Rotate","Tell","Walk","Open","save","delete","play","sing","Record voice", "Give","Hold","Pick"],
+         "responses": ["PA"]
+        }
+        ]
+}
+

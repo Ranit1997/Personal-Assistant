@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:/Projects II/speech/saved_model/classifier1/model.ckpt"
+all_model_checkpoint_paths: "F:/Projects II/speech/saved_model/classifier1/model.ckpt"
